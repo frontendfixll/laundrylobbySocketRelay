@@ -1,6 +1,6 @@
 {
   "name": "laundry-socket-relay",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "Socket.IO relay server for LaundryLobby - bridges Vercel backend with real-time clients",
   "main": "server.js",
   "scripts": {
